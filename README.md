@@ -5,6 +5,7 @@
 ### Backend Setup
 - Buat Folder dengan nama apapun terus masuk ke folder tersebut
 - Lalu clone repository dengan perintah "git clone https://github.com/hafizmaulanaazhar/Koperasi-App.git"
+- Setelah itu masuk ke folder Koperasi-App dengan perintah "cd Koperasi-App"
 
 ##Install Dependencies
   1. cd koperasi-backend
