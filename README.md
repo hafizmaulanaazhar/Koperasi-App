@@ -23,7 +23,7 @@
 1. cd koperasi-frontend
 2. npm install
 3. npm run dev
-   - Jika terdapat error, hapus folder node_modules lalu npm install kembali lalu jalankan kembali menggunakan npmm run dev
+   - Jika terdapat error, hapus folder node_modules lalu npm install kembali lalu jalankan kembali menggunakan npm run dev
 
 Login Credentials
 - Admin: admin@koperasi.com / password
