@@ -23,6 +23,7 @@
 ### Frontend Setup
 1. cd koperasi-frontend
 2. npm install
+   - Jika terdapat error, hapus folder node_modules lalu npm install kembali
 3. npm run dev
 
 Login Credentials
