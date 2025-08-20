@@ -27,5 +27,5 @@
 3. npm run dev
 
 Login Credentials
-Admin: admin@koperasi.com / password
-Karyawan: karyawan@koperasi.com / password
+- Admin: admin@koperasi.com / password
+- Karyawan: karyawan@koperasi.com / password
