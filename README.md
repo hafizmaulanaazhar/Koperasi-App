@@ -17,7 +17,8 @@
   5. php artisan key:generate
   6. php artisan migrate(jika tidak bisa gunakan php artisan migrate:fresh)
   7. php artisan db:seed --class=UserSeeder
-  8. php artisan serve
+  8. php artisan storage:link
+  9. php artisan serve
 
 ### Frontend Setup
 1. cd koperasi-frontend
